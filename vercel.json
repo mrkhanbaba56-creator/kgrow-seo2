@@ -1,4 +1,4 @@
 {
-  "functions": { "api/generate.js": { "maxDuration": 30 } },
+  "functions": { "api/generate.js": { "maxDuration": 30 }, "api/chat.js": { "maxDuration": 60 } },
   "cleanUrls": true
 }
